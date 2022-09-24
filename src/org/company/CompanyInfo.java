@@ -3,7 +3,8 @@ package org.company;
 public class CompanyInfo {
 private void companyName() {
 		// TODO Auto-generated method stub
-System.out.println("The name of the company is Harman");
+System.out.println("The name of the company ");
+System.out.println("hello");
 	}
 private void companyId() {
 	// TODO Auto-generated method stub
