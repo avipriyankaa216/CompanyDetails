@@ -4,7 +4,7 @@ public class CompanyInfo {
 private void companyName() {
 		// TODO Auto-generated method stub
 System.out.println("The name of the company ");
-System.out.println("hello");
+System.out.println("helloooo");
 	}
 private void companyId() {
 	// TODO Auto-generated method stub
